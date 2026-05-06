@@ -1,5 +1,3 @@
-# Retail Analytics Project
-
 # Retail Analytics Dashboard
 
 An end-to-end data analytics project including:
